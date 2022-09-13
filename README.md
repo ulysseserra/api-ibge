@@ -5,7 +5,7 @@ API do IBGE e gerando GRÁFICOS em Python com jupyter notebook e Matplotlib.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **API IBGE**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :label: Tecnologias | Python, Jupyter Notebook, Matplotlib (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
